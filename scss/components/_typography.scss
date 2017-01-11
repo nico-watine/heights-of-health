@@ -1,0 +1,47 @@
+@import "../_settings.scss";
+
+
+.header-font {
+	font-family: $header-font !important;
+}
+
+.body-font {
+	font-family: $body-font !important;
+}
+
+.text-centered {
+	text-align: center;
+
+	* {
+		text-align: center;
+	}
+}
+
+
+.green-bg {
+	a {
+		color: #ebaf20 !important;
+
+		&:hover {
+			color: #fff !important;
+		}
+	}
+}
+
+.white-text {
+	color: #fff !important;
+
+	* {
+		color: #fff !important;
+	}
+}
+
+ul.plain {
+	list-style-type: none;
+	padding: 0;
+}
+// .left-green-border-4px {
+// 	blockquote {
+// 		border-left: 4px solid $dark-green !important;
+// 	}
+// }

@@ -19,3 +19,83 @@
 .shadow-5 {
 	box-shadow: $z-5;
 }
+
+.shadow-hover-1-2 {
+	box-shadow: $z-1;
+
+	&:hover {
+		box-shadow: $z-2;
+	}
+}
+
+.shadow-hover-1-3 {
+	box-shadow: $z-1;
+
+	&:hover {
+		box-shadow: $z-3;
+	}
+}
+
+.shadow-hover-1-4 {
+	box-shadow: $z-1;
+
+	&:hover {
+		box-shadow: $z-4;
+	}	
+}
+
+.shadow-hover-1-5 {
+	box-shadow: $z-1;
+
+	&:hover {
+		box-shadow: $z-5;
+	}	
+}
+
+.shadow-hover-2-3 {
+	box-shadow: $z-2;
+
+	&:hover {
+		box-shadow: $z-3;
+	}
+}
+
+.shadow-hover-2-4 {
+	box-shadow: $z-2;
+
+	&:hover {
+		box-shadow: $z-4;
+	}
+}
+
+.shadow-hover-2-5 {
+	box-shadow: $z-2;
+
+	&:hover {
+		box-shadow: $z-5;
+	}
+}
+
+.shadow-hover-3-4 {
+	box-shadow: $z-3;
+
+	&:hover {
+		box-shadow: $z-4;
+	}
+}
+
+.shadow-hover-3-5 {
+	box-shadow: $z-3;
+
+	&:hover {
+		box-shadow: $z-5;
+	}
+}
+
+.shadow-hover-4-5 {
+	box-shadow: $z-4;
+
+	&:hover {
+		box-shadow: $z-5;
+	}
+}

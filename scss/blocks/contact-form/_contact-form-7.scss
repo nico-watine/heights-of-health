@@ -1,0 +1,36 @@
+@import "../../_settings.scss";
+
+::-webkit-input-placeholder {
+   color: #000;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+   color: #000;  
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+   color: #000;  
+}
+
+:-ms-input-placeholder {  
+   color: #000;  
+}
+
+.submit-button {
+	box-shadow: $z-1;
+	background: $alt-yellow !important;
+	background-color: $alt-yellow !important;
+	color: #fff;
+	border: 1px solid #fff;
+	background-image: none !important;
+
+	&:hover {
+		box-shadow: $z-2;
+		color: $dark-green !important;
+		background-color: #fff !important;
+		background: #fff !important;
+		border: 1px solid $dark-green !important;
+		background-image: none !important;
+	}
+}
+

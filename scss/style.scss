@@ -3,4 +3,14 @@
 
 @import "_settings.scss";
 
+@import "_mixins.scss";
+
+
+@import "components/_typography.scss";
 @import "components/utility-classes/_utility-classes.scss";
+@import "pages/index/_index.scss";
+@import "pages/reiki/_reiki.scss";
+@import "blocks/contact-form/_contact-form-7.scss";
+@import "blocks/_page-title-bar.scss";
+@import "blocks/_testimonials.scss";
+@import "blocks/_menu.scss";

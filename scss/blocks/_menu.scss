@@ -1,0 +1,38 @@
+@import "../_settings.scss";
+
+.fusion-main-menu .sub-menu a {
+	transition: none !important;
+}
+
+.services-menu-tab {
+	padding-top: 0 !important;
+
+	.sub-header {
+		.fusion-megamenu-title {
+			background: $alt-yellow;
+		}
+	}
+}
+
+
+
+#wrapper .fusion-megamenu-wrapper .fusion-megamenu-submenu.sub-header {
+	padding-top: 0 !important;
+	&:hover {
+		background: #f2f2f2 !important;
+	}
+
+	.fusion-megamenu-title {
+		padding-top: 10px !important;
+		padding-bottom: 10px !important;
+		font-size: 20px;
+		border-bottom: 1px solid #000;
+		margin-bottom: 10px;
+	}
+}
+
+.fusion-megamenu-wrapper .fusion-megamenu-submenu {
+	&:hover {
+		background: $alt-yellow;
+	}
+}

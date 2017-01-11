@@ -1,0 +1,12 @@
+@import "../_settings.scss";
+
+.black-avatar {
+	span.company-name {
+		color: #000 !important;
+
+		* {
+			color: #000 !important;
+		}
+	}
+}
+

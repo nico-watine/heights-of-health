@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"con",
+				"_contact-form-7.scss"
+			],
+			[
+				"bgs",
+				"_bg-styles.scss"
+			],
+			[
 				"index",
 				"index/"
 			],
@@ -17,7 +25,7 @@
 			],
 			[
 				"med",
-				"mediaq	@media"
+				"mediaq\t@media"
 			],
 			[
 				"inline",
@@ -101,7 +109,7 @@
 			],
 			[
 				"text",
-				"textarea	Tag"
+				"textarea\tTag"
 			],
 			[
 				"ab",
@@ -117,7 +125,7 @@
 			],
 			[
 				"include",
-				"include	@include"
+				"include\t@include"
 			],
 			[
 				"f",
@@ -137,7 +145,7 @@
 			],
 			[
 				"al",
-				"alt	Attr"
+				"alt\tAttr"
 			],
 			[
 				"st",
@@ -149,7 +157,7 @@
 			],
 			[
 				"p",
-				"twitter.png	w:70 h:70"
+				"twitter.png\tw:70 h:70"
 			],
 			[
 				"i",
@@ -168,10 +176,42 @@
 	"buffers":
 	[
 		{
+			"file": "/Users/nico/SNC Projects/Heights of Health/Site Folder/heightsofhealth.com/scss/blocks/_menu.scss",
+			"settings":
+			{
+				"buffer_size": 644,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nico/SNC Projects/Heights of Health/Site Folder/heightsofhealth.com/css/style.css",
+			"settings":
+			{
+				"buffer_size": 5473,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nico/SNC Projects/Heights of Health/Site Folder/heightsofhealth.com/scss/components/utility-classes/_shadow-styles.scss",
+			"settings":
+			{
+				"buffer_size": 973,
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"file": "/Users/nico/SNC Projects/Heights of Health/Site Folder/heightsofhealth.com/scss/_settings.scss",
 			"settings":
 			{
-				"buffer_size": 483,
+				"buffer_size": 649,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nico/SNC Projects/Heights of Health/Site Folder/heightsofhealth.com/scss/style.scss",
+			"settings":
+			{
+				"buffer_size": 399,
 				"line_ending": "Unix"
 			}
 		}
@@ -286,10 +326,44 @@
 	"expanded_folders":
 	[
 		"/Users/nico/SNC Projects/Heights of Health/Site Folder/heightsofhealth.com",
-		"/Users/nico/SNC Projects/Heights of Health/Site Folder/heightsofhealth.com/scss"
+		"/Users/nico/SNC Projects/Heights of Health/Site Folder/heightsofhealth.com/scss",
+		"/Users/nico/SNC Projects/Heights of Health/Site Folder/heightsofhealth.com/scss/blocks",
+		"/Users/nico/SNC Projects/Heights of Health/Site Folder/heightsofhealth.com/scss/components",
+		"/Users/nico/SNC Projects/Heights of Health/Site Folder/heightsofhealth.com/scss/components/utility-classes"
 	],
 	"file_history":
 	[
+		"/Users/nico/SNC Projects/Heights of Health/Site Folder/heightsofhealth.com/scss/pages/reiki/_reiki.scss",
+		"/Users/nico/SNC Projects/Heights of Health/Site Folder/heightsofhealth.com/scss/_mixins.scss",
+		"/Users/nico/SNC Projects/Heights of Health/Site Folder/heightsofhealth.com/css/style.css",
+		"/Users/nico/SNC Projects/Heights of Health/Site Folder/heightsofhealth.com/scss/blocks/contact-form/_contact-form-7.scss",
+		"/Users/nico/SNC Projects/Heights of Health/Site Folder/heightsofhealth.com/pages/contact/contact-beta.html",
+		"/Users/nico/SNC Projects/Heights of Health/Site Folder/heightsofhealth.com/scss/blocks/_page-title-bar.scss",
+		"/Users/nico/SNC Projects/Heights of Health/Site Folder/heightsofhealth.com/scss/components/_typography.scss",
+		"/Users/nico/SNC Projects/Heights of Health/Site Folder/heightsofhealth.com/scss/components/utility-classes/_shadow-styles.scss",
+		"/Users/nico/SNC Projects/Heights of Health/Site Folder/heightsofhealth.com/pages/index/tagline.html",
+		"/Users/nico/SNC Projects/Heights of Health/Site Folder/heightsofhealth.com/pages/reiki/reiki.html",
+		"/Users/nico/Desktop/list-2.txt",
+		"/Users/nico/SNC Projects/Heights of Health/Site Folder/heightsofhealth.com/scss/blocks/_testimonials.scss",
+		"/Users/nico/SNC Projects/Heights of Health/Site Folder/heightsofhealth.com/scss/style.scss",
+		"/Users/nico/SNC Projects/Heights of Health/Site Folder/heightsofhealth.com/scss/pages/index/_index.scss",
+		"/Users/nico/SNC Projects/Heights of Health/Site Folder/heightsofhealth.com/widgets/footer/footer-widget-3.html",
+		"/Users/nico/SNC Projects/Heights of Health/Site Folder/heightsofhealth.com/scss/components/utility-classes/_metrics.scss",
+		"/Users/nico/SNC Projects/Heights of Health/Site Folder/heightsofhealth.com/scss/_settings.scss",
+		"/Users/nico/SNC Projects/Heights of Health/Site Folder/heightsofhealth.com/scss/components/utility-classes/_utility-classes.scss",
+		"/Users/nico/SNC Projects/Heights of Health/Site Folder/heightsofhealth.com/scss/components/utility-classes/_borders.scss",
+		"/Users/nico/SNC Projects/Heights of Health/Site Folder/heightsofhealth.com/scss/components/utility-classes/_bg-styles.scss",
+		"/Users/nico/Desktop/stress-cloud-list.txt",
+		"/Users/nico/Desktop/esp-notes.txt",
+		"/Users/nico/Desktop/email-1.txt",
+		"/Users/nico/Desktop/email-2.txt",
+		"/Users/nico/Desktop/03:31 Time.txt",
+		"/Users/nico/Desktop/live-team.html",
+		"/Users/nico/Desktop/beta-local-team.html",
+		"/Users/nico/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/nico/Desktop/hip-pot-notes.txt",
+		"/Users/nico/Desktop/phone call.txt",
+		"/Users/nico/SNC Projects/Heights of Health/Site Folder/heightsofhealth.com/scss/components/_utility-classes.scss",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/tags/lisa-esposito.php",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/tags/apps.php",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/tags/greencare-interior-plants.php",
@@ -358,7 +432,6 @@
 		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_site/.htaccess",
 		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/wedding-details.php",
 		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/.htaccess",
-		"/Users/nico/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/Users/nico/Web Development/Foundation/Foundation 6/foundation-6.static/dev/index.html",
 		"/Users/nico/Web Development/Foundation/Foundation 6/foundation-6.static/scss/components/_fonts.scss",
 		"/Users/nico/Web Development/Foundation/Foundation 6/foundation-6.static/humans.txt",
@@ -387,41 +460,11 @@
 		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_ignores/to-do.txt",
 		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_layouts/proposal-story/lockbridge-notredame-louvre-sacrecoeur-dark.php",
 		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/pages/proposal-story/_gfycat.scss",
-		"/Users/nico/Desktop/beta.html",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/pages/proposal-story/_parallax-ring.scss",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/js/src/proposal-story.js",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/pages/proposal-story/_videos.scss",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/blocks/_nav.scss",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_layouts/proposal-story/final-proposal.php",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_layouts/proposal-story/3-opportunities.php",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/js/src/scripts.js",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_includes/components/scripts/google-tracking.php",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_layouts/index/index.php",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/php/submit-rsvp.php",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_layouts/index/bootstrap-thank-you.php",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/-wedding-details/index.php",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/-wedding-details/thank-you.php",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/thank-you.php",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_layouts/wedding-details/ceremony-reception-rsvp-registry-thanks.php",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_ignores/bootstrap-modal-url.txt",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/assets/bower_components/boostrap-sass/assets/javascripts/bootstrap/tab.js",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_includes/components/scripts/scripts.php",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_layouts/index/magnific-thank-you.php",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/assets/bower_components/magnific-popup/README.md",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_layouts/index/thank-you.php",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_layouts/wedding-details/registry.php",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/pages/wedding-details/_tabs.scss",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/pages/wedding-details/_registry.scss",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_ignores/honeyfund.txt",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_layouts/wedding-details/ceremony-reception-rsvp.php",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/pages/wedding-details/_rsvp.scss",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/components/_buttons.scss",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/pages/wedding-details/_tabs-3.scss",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/robots.txt"
+		"/Users/nico/Desktop/beta.html"
 	],
 	"find":
 	{
-		"height": 29.0
+		"height": 37.0
 	},
 	"find_in_files":
 	{
@@ -436,6 +479,38 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"<li style=\"font-size: 20px; line-height: 1.4; text-align: center;\">",
+			"<li",
+			"<li>",
+			"~",
+			"~ ",
+			"h2",
+			"Detoxification",
+			"<li>",
+			"h2",
+			"/",
+			"Questions",
+			"done",
+			"Monica",
+			"</strong>",
+			"address",
+			"21px",
+			"/wp-content/",
+			"http://hoh.wp",
+			"large",
+			"including",
+			"red",
+			"h2",
+			";",
+			"text-align: center;",
+			"E2ECEA",
+			"fff",
+			"669966",
+			"EDB823",
+			"669966",
+			"EDB823",
+			"4",
+			"3",
 			"h3",
 			"auto",
 			"/img",
@@ -531,39 +606,7 @@
 			"h2",
 			"0px",
 			"3px",
-			"text-shadow",
-			"tab-button ",
-			"text-shadow ",
-			"white ",
-			"max",
-			"888",
-			"div",
-			"max-400",
-			"800",
-			"420",
-			"400",
-			"420",
-			"max-400",
-			"max-500",
-			"-index",
-			"large-index",
-			"index",
-			"title",
-			"word",
-			"nav",
-			"fontello",
-			"'",
-			"nav.",
-			"nav/",
-			"responsivenav",
-			"<ul class=\"footer-menu header\">",
-			"header-font",
-			"ubun",
-			"header-font",
-			"lintel",
-			" header-font",
-			"contact us",
-			"title"
+			"text-shadow"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -571,6 +614,9 @@
 		"regex": false,
 		"replace_history":
 		[
+			"22px",
+			"http://heightsofhealth.com/avada/wp-content/",
+			"",
 			"large-12",
 			"#{$url}/img",
 			"<ul class=\"footer-menu\">",
@@ -605,30 +651,209 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/Users/nico/SNC Projects/Heights of Health/Site Folder/heightsofhealth.com/scss/_settings.scss",
+					"file": "/Users/nico/SNC Projects/Heights of Health/Site Folder/heightsofhealth.com/scss/blocks/_menu.scss",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 483,
+						"buffer_size": 644,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								26,
-								32
+								94,
+								94
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/nico/SNC Projects/Heights of Health/Site Folder/heightsofhealth.com/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5473,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								434,
+								434
 							]
 						],
 						"settings":
 						{
 							"BracketHighlighterBusy": false,
 							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
 							[
 								"bh_regex",
 								"bh_regex_center",
@@ -640,41 +865,41 @@
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
 								"bh_square_close",
 								"bh_square_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
@@ -687,13 +912,338 @@
 								"bh_c_define_content"
 							],
 							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/nico/SNC Projects/Heights of Health/Site Folder/heightsofhealth.com/scss/components/utility-classes/_shadow-styles.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 973,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								705,
+								705
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										741,
+										742
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										685,
+										686
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1327.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/nico/SNC Projects/Heights of Health/Site Folder/heightsofhealth.com/scss/_settings.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 649,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
 							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/nico/SNC Projects/Heights of Health/Site Folder/heightsofhealth.com/scss/style.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 399,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								333,
+								333
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
@@ -738,7 +1288,7 @@
 	"project": "heights-of-health.sublime-project",
 	"replace":
 	{
-		"height": 54.0
+		"height": 68.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -747,6 +1297,98 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"set",
+				"scss/_settings.scss"
+			],
+			[
+				"stc",
+				"css/style.css"
+			],
+			[
+				"rei",
+				"scss/pages/reiki/_reiki.scss"
+			],
+			[
+				"reikis",
+				"scss/pages/reiki/_reiki.scss"
+			],
+			[
+				"t",
+				"scss/components/_typography.scss"
+			],
+			[
+				"tpo",
+				"scss/components/_typography.scss"
+			],
+			[
+				"typo",
+				"scss/components/_typography.scss"
+			],
+			[
+				"typ",
+				"scss/components/_typography.scss"
+			],
+			[
+				"uti",
+				"scss/components/utility-classes/_metrics.scss"
+			],
+			[
+				"sha",
+				"scss/components/utility-classes/_shadow-styles.scss"
+			],
+			[
+				"st",
+				"scss/style.scss"
+			],
+			[
+				"utshad",
+				"scss/components/utility-classes/_shadow-styles.scss"
+			],
+			[
+				"se",
+				"scss/_settings.scss"
+			],
+			[
+				"contafor",
+				"scss/blocks/contact-form/_contact-form-7.scss"
+			],
+			[
+				"con",
+				"pages/contact/contact-beta.html"
+			],
+			[
+				"stcs",
+				"css/style.css"
+			],
+			[
+				"ty",
+				"scss/components/_typography.scss"
+			],
+			[
+				"cont",
+				"pages/contact/contact-beta.html"
+			],
+			[
+				"me",
+				"scss/components/utility-classes/_metrics.scss"
+			],
+			[
+				"metr",
+				"scss/components/utility-classes/_metrics.scss"
+			],
+			[
+				"bg",
+				"scss/components/utility-classes/_bg-styles.scss"
+			],
+			[
+				"ut",
+				"scss/components/utility-classes/_utility-classes.scss"
+			],
+			[
+				"sts",
+				"scss/style.scss"
+			],
 			[
 				"inp",
 				"index.php"
@@ -808,10 +1450,6 @@
 				"assets/neat/_grid-settings.scss"
 			],
 			[
-				"typo",
-				"scss/components/_typography.scss"
-			],
-			[
 				"albfir",
 				"scss/pages/wedding-album/_first-dance.scss"
 			],
@@ -822,10 +1460,6 @@
 			[
 				"v1",
 				"_layouts/wedding-album/v1.php"
-			],
-			[
-				"set",
-				"scss/settings/_settings.scss"
 			],
 			[
 				"vis",
@@ -840,10 +1474,6 @@
 				"scss/pages/wedding-album/_wedding-album.scss"
 			],
 			[
-				"ty",
-				"scss/components/_typography.scss"
-			],
-			[
 				"wedalhea",
 				"scss/pages/wedding-album/_header.scss"
 			],
@@ -854,18 +1484,6 @@
 			[
 				"wedalsc",
 				"scss/pages/wedding-album/_wedding-album.scss"
-			],
-			[
-				"st",
-				"scss/style.scss"
-			],
-			[
-				"sts",
-				"scss/style.scss"
-			],
-			[
-				"stcs",
-				"css/style.css"
 			],
 			[
 				"navp",
@@ -900,16 +1518,8 @@
 				"assets/neat/settings/_grid.scss"
 			],
 			[
-				"stc",
-				"css/style.css"
-			],
-			[
 				"fonts",
 				"scss/components/_fonts.scss"
-			],
-			[
-				"se",
-				"scss/settings/_settings.scss"
 			],
 			[
 				"wedp",
@@ -922,10 +1532,6 @@
 			[
 				"ht",
 				".htaccess"
-			],
-			[
-				"con",
-				"_config.yml"
 			],
 			[
 				"stycs",
@@ -1202,62 +1808,6 @@
 			[
 				"dej",
 				"js/src/details.js"
-			],
-			[
-				"det",
-				"js/src/details.js"
-			],
-			[
-				"laywedd",
-				"_layouts/wedding-details/ceremony-reception-rsvp-registry-thanks-modal.php"
-			],
-			[
-				"scrij",
-				"js/src/scripts.js"
-			],
-			[
-				"layprop",
-				"_layouts/proposal-story/final-proposal.php"
-			],
-			[
-				"sett",
-				"scss/settings/_settings.scss"
-			],
-			[
-				"go",
-				"_includes/components/scripts/google-tracking.php"
-			],
-			[
-				"navscs",
-				"scss/blocks/_nav.scss"
-			],
-			[
-				"weddsc",
-				"scss/pages/wedding-details/_wedding-details.scss"
-			],
-			[
-				"sub",
-				"php/submit-rsvp.php"
-			],
-			[
-				"weds",
-				"scss/pages/wedding-details/_wedding-details.scss"
-			],
-			[
-				"weddindex",
-				"wedding-details/index.php"
-			],
-			[
-				"layin",
-				"_layouts/index/index.php"
-			],
-			[
-				"weddscs",
-				"scss/pages/wedding-details/_wedding-details.scss"
-			],
-			[
-				"tabjs",
-				"assets/bower_components/boostrap-sass/assets/javascripts/bootstrap/tab.js"
 			]
 		],
 		"width": 0.0
@@ -1265,23 +1815,75 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "",
+		"last_filter": "hou",
 		"selected_items":
 		[
 			[
-				"c",
-				"~/SNC Projects/CABC/Site Folder/clementsathleticboosterclub.org/_ignores/cabc.sublime-project"
+				"hou",
+				"~/SNC Projects/Houston Interior Plants/Site Folder/houstoninteriorplants.com/houston-interior-plants/_ignores/houston-interior-plants.sublime-project"
+			],
+			[
+				"sn",
+				"~/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/_ignores/snc.sublime-project"
+			],
+			[
+				"s",
+				"~/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/_ignores/snc.sublime-project"
+			],
+			[
+				"bl",
+				"~/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_ignores/blog-snc-jekyll.sublime-project"
+			],
+			[
+				"hi",
+				"~/SNC Projects/Houston Interior Plants/Site Folder/_ignores/hip.sublime-project"
+			],
+			[
+				"ne",
+				"~/Web Development/New Project/Site Folder/new-project.com/_ignores/newproject.sublime-project"
+			],
+			[
+				"dr",
+				"~/SNC Projects/Cross Eye Centers/Site Folder/drcross.com/_ignores/drcross.sublime-project"
+			],
+			[
+				"es",
+				"~/SNC Projects/Essential Sound Production/Site Folder/essentialsoundproduction.com/_ignores/essential-sound-production.sublime-project"
+			],
+			[
+				"he",
+				"~/SNC Projects/Heights of Health/Site Folder/heightsofhealth.com/_ignores/heights-of-health.sublime-project"
+			],
+			[
+				"hu",
+				"~/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.foundation/_ignores/hu-foundation.sublime-project"
 			],
 			[
 				"e",
 				"~/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_ignores/engaged.sublime-project"
 			],
 			[
-				"new",
-				"~/Web Development/New Project/Site Folder/new-project.com/_ignores/newproject.sublime-project"
+				"foa",
+				"~/Web Development/Foundation/Foundation 6/foundation-6-advanced.static/_ignores/foundation-6-advanced-boilerplate.sublime-project"
 			],
 			[
-				"ne",
+				"ni",
+				"~/SNC Projects/nicowatine.me/Site Folder/nicowatine.me/_ignores/nico.jekyll.sublime-project"
+			],
+			[
+				"c",
+				"~/SNC Projects/CABC/Site Folder/clementsathleticboosterclub.org/_ignores/cabc.sublime-project"
+			],
+			[
+				"ca",
+				"~/SNC Projects/CABC/Site Folder/clementsathleticboosterclub.org/_ignores/cabc.sublime-project"
+			],
+			[
+				"b",
+				"~/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_ignores/blog-snc-jekyll.sublime-project"
+			],
+			[
+				"new",
 				"~/Web Development/New Project/Site Folder/new-project.com/_ignores/newproject.sublime-project"
 			],
 			[
@@ -1289,28 +1891,8 @@
 				"~/Web Development/Foundation/Foundation 6/foundation-6.static/_ignores/foundation-6-boilerplate.sublime-workspace"
 			],
 			[
-				"dr",
-				"~/SNC Projects/Cross Eye Centers/Site Folder/drcross.com/_ignores/drcross.sublime-project"
-			],
-			[
-				"ca",
-				"~/SNC Projects/CABC/Site Folder/clementsathleticboosterclub.org/_ignores/cabc.sublime-project"
-			],
-			[
 				"lp",
 				"~/SNC Projects/Lemon Peel Facial/Site Folder/lpf.static/_ignores/lpf.static.sublime-project"
-			],
-			[
-				"ni",
-				"~/SNC Projects/nicowatine.me/Site Folder/nicowatine.me/_ignores/nico.static.sublime-project"
-			],
-			[
-				"bl",
-				"~/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_ignores/blog-snc-static.sublime-project"
-			],
-			[
-				"b",
-				"~/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_ignores/blog-snc-static.sublime-project"
 			],
 			[
 				"h",
@@ -1325,20 +1907,12 @@
 				"~/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/_ignores/deck.sublime-project"
 			],
 			[
-				"s",
-				"~/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/_ignores/snc.sublime-project"
-			],
-			[
 				"n",
 				"~/SNC Projects/nicowatine.me/Site Folder/nicowatine.me/_ignores/nico.static.sublime-project"
 			],
 			[
 				"cl",
 				"~/SNC Projects/Studio N Creations/Site Folder/client.studioncreations.com/_ignores/client-snc-static.sublime-project"
-			],
-			[
-				"sn",
-				"~/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/_ignores/snc.sublime-project"
 			],
 			[
 				"h5",
